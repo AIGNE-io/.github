@@ -1,40 +1,45 @@
-## ✨ Welcome to AIGNE: The Functional AI Agent Framework ✨
+## ✨ Welcome to AIGNE ✨
 
-**Your TypeScript-first foundation for building powerful, real-world AI Agents.**
+**Your TypeScript-first foundation for building, managing, and observing powerful, real-world AI Agents.**
 
-At AIGNE, we believe in empowering developers to create intelligent, robust, and scalable AI applications with confidence. We've built **AIGNE** to be a composable, TypeScript-first framework that simplifies the complexities of working with Large Language Models (LLMs) and building sophisticated AI agents.
+AIGNE is a comprehensive ecosystem to empower developers in creating intelligent, robust, and scalable AI applications. Our **AIGNE Framework** serves as the core, providing the building blocks for sophisticated AI agents. Complementing the framework are essential tools and features designed to streamline your development workflow and provide deep insights into your agents' behavior.
 
-Whether you're crafting a simple chatbot, a complex automation agent, or a data-driven assistant, AIGNE provides the tools you need to bring your vision to life.
+The AIGNE ecosystem comprises:
 
-### Why Choose AIGNE?
+* **AIGNE Framework:** The composable, TypeScript-first framework for constructing the logic and capabilities of your AI agents.
+* **AIGNE Studio:** A user-friendly interface (potentially a web application or IDE extension) for visually designing, testing, and managing your AI agents.
+* **AIGNE CLI:** A powerful command-line interface for scaffolding projects, automating tasks, and interacting with your AIGNE applications.
+* **AIGNE Observability:** Tools and features integrated into AIGNE for monitoring, tracing, and debugging your AI agents in development and production.
 
-* **TypeScript-First:** Enjoy the benefits of full type safety, autocompletion, and a delightful development experience that modern TypeScript offers.
-* **Composable & Modular:** Build complex agents by combining simple, reusable components. Our design promotes maintainability and scalability.
-* **Real-world Ready:** Designed with production environments in mind, AIGNE helps you build agents that are robust, observable, and easy to deploy.
-* **Extensible:** Integrate seamlessly with any LLM, external tool, or service to extend your agent's capabilities.
-
----
-
-### Our Core Repository
-
-🚀 **Get Started with AIGNE:** Dive into our main framework repository to explore the code, examples, and detailed documentation.
-
-* [**AIGNE Framework**](https://github.com/aigne-io/aigne-framework) (Replace `AIGNE-Main-Repo` with your actual main repository name)
+This interconnected approach ensures a seamless and efficient experience throughout the entire lifecycle of your AI agent applications.
 
 ---
 
-### Explore & Learn More
+### Explore the AIGNE Ecosystem
 
-* **Documentation:** Discover comprehensive guides, API references, and tutorials on our official documentation site.
-    * [AIGNE Docmentation](https://www.arcblock.io/docs/aigne-framework) (Replace with your actual documentation URL)
-* **Examples:** See AIGNE in action! Our examples repository provides practical use cases and inspiration for your own projects.
-    * [AIGNE Examples](https://github.com/AIGNE-io/aigne-framework/tree/main/examples) (Replace with your actual examples repository name, or remove if examples are in the main repo)
+* **AIGNE Framework:** The heart of our ecosystem. Explore the core libraries and start building your agents.
+    * [https://github.com/aigne-io/aigne-framework]
+* **AIGNE Studio:** Visualize and manage your AI agents with our intuitive studio.
+* **AIGNE CLI:** Automate your workflow and interact with AIGNE from the command line.
+    * [https://github.com/AIGNE-io/aigne-framework/tree/main/packages/cli]
+* **AIGNE Observability:** Gain insights into your agents' performance and behavior.
+    * [https://github.com/AIGNE-io/aigne-framework/tree/main/packages/observability]
 
 ---
 
-### Join Our Community
+### Why Build with AIGNE?
 
-We're building a vibrant community of AI developers. Connect with us, ask questions, and share your projects!
+* **TypeScript-First:** Enjoy the benefits of strong typing and a modern development experience across all components.
+* **Composability:** Build complex solutions from modular and reusable elements within the Framework.
+* **Integrated Tooling:** Leverage the Studio and CLI to enhance your productivity.
+* **Built-in Insights:** Understand your agents better with comprehensive Observability features.
+* **Real-world Focus:** Design and deploy robust AI applications for production environments.
+
+---
+
+We're excited to see how you'll leverage the power of the entire AIGNE ecosystem to create innovative AI solutions!
+
+### Get Involved
 
 * 💬 **Community:** Join our community for real-time discussions and support: [https://community.arcblock.io/discussions/boards/aigne]
 * 🐦 **Twitter (X):** Follow us for updates, news, and insights: [@ArcBlock_io](https://x.com/arcblock_io)
