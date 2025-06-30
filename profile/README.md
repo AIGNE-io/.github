@@ -2,7 +2,7 @@
 
 **Your TypeScript-first foundation for building, managing, and observing powerful, real-world AI Agents.**
 
-a comprehensive ecosystem to empower developers to create intelligent 🧠, robust 💪, and scalable 📈 AI applications. Our **AIGNE Framework** serves as the core, providing the building blocks for sophisticated AI agents. Complementing the framework are essential tools and features designed to streamline your development workflow 🚀 and provide deep insights into your agents' behavior 👀.
+AIGNE is a comprehensive ecosystem to empower developers to create intelligent 🧠, robust 💪, and scalable 📈 AI applications. Our **AIGNE Framework** serves as the core, providing the building blocks for sophisticated AI agents. Complementing the framework are essential tools and features designed to streamline your development workflow 🚀 and provide deep insights into your agents' behavior 👀.
 
 The AIGNE ecosystem comprises:
 
